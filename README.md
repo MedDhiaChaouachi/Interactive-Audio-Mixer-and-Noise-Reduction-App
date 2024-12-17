@@ -36,13 +36,7 @@ The **Interactive Audio Mixing Application** simplifies sound processing with fe
 
 Alternatively, users can copy the MATLAB code and paste it directly into the MATLAB Online editor to run the application without installing it locally. Feel free to use, modify, and distribute this application as you wish.
 
-## Screenshots
-Add screenshots here showing the application interface and usage examples.
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and create a pull request with your changes.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+feal free to use 
